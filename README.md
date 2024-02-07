@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aditya Dixit
 - 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently working on something cool :wink:
-- 📫 You can reach me out - [Website](https://dixitaditya248.github.io/), [LinkedIn](https://www.linkedin.com/in/aditya-dixit-gecj/)
+- 📫 You can reach me out - [Website](https://dixitaditya248.github.io/), [LinkedIn](https://www.linkedin.com/in/aditya-dixit-iiti/)
 -  :grinning:  Pronouns: He/Him
 
 <!---
