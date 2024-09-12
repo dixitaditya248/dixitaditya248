@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aditya Dixit
-- 👀 I’m interested in Data Science and Machine Learning
+- 👀 I’m interested in Deep Learning, Computer Vision and Hyperspectral Imaging
 - 🌱 I’m currently working on something cool :wink:
 - 📫 You can reach me out - [Website](https://dixitaditya248.github.io/), [LinkedIn](https://www.linkedin.com/in/aditya-dixit-iiti/)
 -  :grinning:  Pronouns: He/Him
